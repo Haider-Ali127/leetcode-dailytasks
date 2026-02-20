@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Haider-Ali127/leetcode-dailytasks/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Haider-Ali127/leetcode-dailytasks/tree/master/0027-remove-element) |
 | [0219-contains-duplicate-ii](https://github.com/Haider-Ali127/leetcode-dailytasks/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/Haider-Ali127/leetcode-dailytasks/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/Haider-Ali127/leetcode-dailytasks/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/Haider-Ali127/leetcode-dailytasks/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/Haider-Ali127/leetcode-dailytasks/tree/master/1004-max-consecutive-ones-iii) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Haider-Ali127/leetcode-dailytasks/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Haider-Ali127/leetcode-dailytasks/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/Haider-Ali127/leetcode-dailytasks/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Haider-Ali127/leetcode-dailytasks/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Haider-Ali127/leetcode-dailytasks/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Haider-Ali127/leetcode-dailytasks/tree/master/0643-maximum-average-subarray-i) |
@@ -71,4 +73,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/Haider-Ali127/leetcode-dailytasks/tree/master/1004-max-consecutive-ones-iii) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Haider-Ali127/leetcode-dailytasks/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Haider-Ali127/leetcode-dailytasks/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Haider-Ali127/leetcode-dailytasks/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
