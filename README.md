@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Haider-Ali127/leetcode-dailytasks/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Haider-Ali127/leetcode-dailytasks/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Haider-Ali127/leetcode-dailytasks/tree/master/0027-remove-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/Haider-Ali127/leetcode-dailytasks/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Haider-Ali127/leetcode-dailytasks/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Haider-Ali127/leetcode-dailytasks/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/Haider-Ali127/leetcode-dailytasks/tree/master/0283-move-zeroes) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Haider-Ali127/leetcode-dailytasks/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/Haider-Ali127/leetcode-dailytasks/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Haider-Ali127/leetcode-dailytasks/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Haider-Ali127/leetcode-dailytasks/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Haider-Ali127/leetcode-dailytasks/tree/master/0424-longest-repeating-character-replacement) |
@@ -71,10 +73,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Haider-Ali127/leetcode-dailytasks/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Haider-Ali127/leetcode-dailytasks/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Haider-Ali127/leetcode-dailytasks/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Haider-Ali127/leetcode-dailytasks/tree/master/1004-max-consecutive-ones-iii) |
 ## Queue
 |  |
