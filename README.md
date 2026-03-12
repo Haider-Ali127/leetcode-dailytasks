@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Haider-Ali127/leetcode-dailytasks/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Haider-Ali127/leetcode-dailytasks/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/Haider-Ali127/leetcode-dailytasks/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/Haider-Ali127/leetcode-dailytasks/tree/master/0347-top-k-frequent-elements) |
 | [0643-maximum-average-subarray-i](https://github.com/Haider-Ali127/leetcode-dailytasks/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/Haider-Ali127/leetcode-dailytasks/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Haider-Ali127/leetcode-dailytasks/tree/master/1004-max-consecutive-ones-iii) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Haider-Ali127/leetcode-dailytasks/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Haider-Ali127/leetcode-dailytasks/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Haider-Ali127/leetcode-dailytasks/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Haider-Ali127/leetcode-dailytasks/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/Haider-Ali127/leetcode-dailytasks/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Haider-Ali127/leetcode-dailytasks/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Haider-Ali127/leetcode-dailytasks/tree/master/0567-permutation-in-string) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Haider-Ali127/leetcode-dailytasks/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/Haider-Ali127/leetcode-dailytasks/tree/master/0347-top-k-frequent-elements) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -110,4 +113,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Haider-Ali127/leetcode-dailytasks/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Haider-Ali127/leetcode-dailytasks/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Haider-Ali127/leetcode-dailytasks/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Haider-Ali127/leetcode-dailytasks/tree/master/0347-top-k-frequent-elements) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Haider-Ali127/leetcode-dailytasks/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Haider-Ali127/leetcode-dailytasks/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Haider-Ali127/leetcode-dailytasks/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Haider-Ali127/leetcode-dailytasks/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
