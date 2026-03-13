@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Haider-Ali127/leetcode-dailytasks/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Haider-Ali127/leetcode-dailytasks/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Haider-Ali127/leetcode-dailytasks/tree/master/0219-contains-duplicate-ii) |
+| [0238-product-of-array-except-self](https://github.com/Haider-Ali127/leetcode-dailytasks/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Haider-Ali127/leetcode-dailytasks/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/Haider-Ali127/leetcode-dailytasks/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Haider-Ali127/leetcode-dailytasks/tree/master/0347-top-k-frequent-elements) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Haider-Ali127/leetcode-dailytasks/tree/master/0209-minimum-size-subarray-sum) |
+| [0238-product-of-array-except-self](https://github.com/Haider-Ali127/leetcode-dailytasks/tree/master/0238-product-of-array-except-self) |
 | [1004-max-consecutive-ones-iii](https://github.com/Haider-Ali127/leetcode-dailytasks/tree/master/1004-max-consecutive-ones-iii) |
 ## Queue
 |  |
