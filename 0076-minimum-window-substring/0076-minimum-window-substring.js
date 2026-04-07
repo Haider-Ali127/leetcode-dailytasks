@@ -25,9 +25,9 @@ var minWindow = function(s, t) {
             formed++
         }
         while (lef <= rig && formed === required) {
-            if (rig - lef + 1 < minLen) {
-                minLen = rig - lef + 1;
-                start = lef;
+            if(rig - lef + 1 < minLen){
+                minLen = rig - lef + 1
+                start = lef
             }
             let lefChar = s[lef]
             windowCounts[lefChar]--
