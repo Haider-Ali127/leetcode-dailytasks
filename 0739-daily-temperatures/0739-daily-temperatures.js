@@ -5,14 +5,14 @@
 var dailyTemperatures = function(t) {
     let n = t.length;
     let res = new Array(n).fill(0);
-    let stack = [];
+    let s = [];
 
     for (let i = 0; i < n; i++) {
-        while (stack.length && t[i] > t[stack[stack.length - 1]]) {
-            let idx = stack.pop();
+        while (s.length && t[i] > t[s[s.length - 1]]) {
+            let idx = s.pop();
             res[idx] = i - idx;
         }
-        stack.push(i);
+        s.push(i);
     }
 
     return res;
