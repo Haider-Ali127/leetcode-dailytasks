@@ -3,7 +3,7 @@
  * @return {number}
  */
 var largestRectangleArea = function(heights) {
-    let maxArea = 0;
+         let maxArea = 0;
     let stack = [];
     let n = heights.length;
     for (let i = 0; i <= n; i++) {    
