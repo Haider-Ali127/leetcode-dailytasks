@@ -4,7 +4,7 @@
  * @return {number}
  */
 var characterReplacement = function(s, k) {
-    let left = 0;
+     let left = 0;
     let maxLength = 0;
     let maxFrequency = 0;
     let Frequency = [];
