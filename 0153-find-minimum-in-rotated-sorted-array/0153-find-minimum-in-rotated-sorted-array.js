@@ -3,28 +3,23 @@
  * @return {number}
  */
 var findMin = function(nums) {
-    let min = nums[0];
-    let left = 0;
-    let right = nums.length - 1;
+    let min = nums[0] 
+    let left = 1
+    let right = nums.length - 1
 
-    while (left <= right) {
-
-        if (nums[left] < nums[right]) {
-            min = Math.min(min, nums[left]);
-            break;
+    while(left <= right){
+        if(nums[left] < nums[right]){
+            min = Math.min(min, nums[left])
+            break
         }
-
-        let mid = Math.floor((left + right) / 2);
-
-        min = Math.min(min, nums[mid]);
-
-        if (nums[mid] >= nums[left]) {
-            min = Math.min(min, nums[left]);
-            left = mid + 1;
-        } else {
-            right = mid - 1;
+        let mid = Math.floor(left + (right - left)/2)
+        min = Math.min(min, nums[mid])
+        if(nums[mid] >= nums[left]){
+            min = Math.min(min, nums[left])
+            left = mid + 1
+        }else{
+            right = mid - 1
         }
     }
-
-    return min;
+    return min
 }
