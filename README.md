@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Haider-Ali127/leetcode-dailytasks/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Haider-Ali127/leetcode-dailytasks/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/Haider-Ali127/leetcode-dailytasks/tree/master/0853-car-fleet) |
+| [0875-koko-eating-bananas](https://github.com/Haider-Ali127/leetcode-dailytasks/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/Haider-Ali127/leetcode-dailytasks/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Haider-Ali127/leetcode-dailytasks/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Haider-Ali127/leetcode-dailytasks/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Haider-Ali127/leetcode-dailytasks/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Haider-Ali127/leetcode-dailytasks/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/Haider-Ali127/leetcode-dailytasks/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/Haider-Ali127/leetcode-dailytasks/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Haider-Ali127/leetcode-dailytasks/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
