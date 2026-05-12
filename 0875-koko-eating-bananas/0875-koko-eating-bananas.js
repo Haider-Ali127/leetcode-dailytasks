@@ -16,6 +16,7 @@ var minEatingSpeed = function(piles, h) {
             left = mid + 1;
         }
     }
+
     return left;
 
     function canFinish(piles, speed, h) {
