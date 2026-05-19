@@ -4,7 +4,7 @@
  * @return {number[]}
  */
 var maxSlidingWindow = function(nums, k) {
-    let deque = []; 
+     let deque = []; 
     let result = [];
     for (let i = 0; i < nums.length; i++) {
         if (deque.length && deque[0] < i - k + 1) {
