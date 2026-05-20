@@ -3,8 +3,8 @@
  * @param {number} target
  * @return {number[]}
  */
-var twoSum = function(numbers, target) { 
-       let left = 0
+var twoSum = function(numbers, target) {
+    let left = 0
    let right = numbers.length - 1
    for(let i = 0; i < right ; i++)
    while(left < right){
@@ -19,5 +19,4 @@ var twoSum = function(numbers, target) {
     }
    }
    return null
-
 };
