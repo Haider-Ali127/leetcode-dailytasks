@@ -19,6 +19,5 @@ var sortColors = function(nums) {
         [nums[high], nums[mid]] = [nums[mid], nums[high]];
         high--
     }
-   }
-    
+   } 
 };
