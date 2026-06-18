@@ -13,8 +13,9 @@ var checkInclusion = function(s1, s2) {
    for(let char of s1){
     s1map[char] = (s1map[char] || 0 ) + 1
    }
-   for(let right = 0; right < s2.length; right ++){
-    let char = s2[right];
+  for(let right = 0; right < s2.length; right++){
+    let char = s2[right]
+
     if(s1map[char] !== undefined){
         windowMap[char] = (windowMap[char] || 0) + 1;
         if(s1map[char] == windowMap[char]) matchCount++;
