@@ -4,15 +4,15 @@
  * @return {boolean}
  */
 var checkInclusion = function(s1, s2) {
-    let s1map = {};
+   let s1map = {}
     let windowMap = {};
     let left = 0;
     let matchCount = 0;
     let windowSize = s1.length
 
    for(let char of s1){
-    s1map[char] = (s1map[char] || 0) + 1;
-   }  
+    s1map[char] = (s1map[char] || 0 ) + 1
+   }
    for(let right = 0; right < s2.length; right ++){
     let char = s2[right];
     if(s1map[char] !== undefined){
