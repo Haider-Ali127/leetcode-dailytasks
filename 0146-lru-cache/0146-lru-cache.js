@@ -5,23 +5,6 @@ function Node(key, value) {
     this.next = null;
 }
 
-function remove(node) {
-    let prev = node.prev;
-    let next = node.next;
-
-    prev.next = next;
-    next.prev = prev;
-}
-
-function insertAtMRU(node, tail) {
-    let prev = tail.prev;
-
-    prev.next = node;
-    node.prev = prev;
-
-    node.next = tail;
-    tail.prev = node;
-}
 var LRUCache = function(capacity) {
     this.capacity = capacity;
     this.cache = new Map();
@@ -43,9 +26,14 @@ LRUCache.prototype.get = function(key) {
     }
 
     let node = this.cache.get(key);
-
-    remove(node);
-    insertAtMRU(node,this.tail);
+ 
+    node.prev.next = node.next;
+    node.next.prev = node.prev;
+ 
+    node.prev = this.tail.prev;
+    node.next = this.tail;
+    this.tail.prev.next = node;
+    this.tail.prev = node;
 
     return node.value;
 };
@@ -60,21 +48,29 @@ LRUCache.prototype.put = function(key, value) {
         let node = this.cache.get(key);
 
         node.value = value;
-        remove(node);
-        insertAtMRU(node,this.tail);
+        node.prev.next = node.next;
+        node.next.prev = node.prev;
+
+        node.prev = this.tail.prev;
+        node.next = this.tail;
+        this.tail.prev.next = node;
+        this.tail.prev = node;
 
         return;
     }
 
     let node = new Node(key, value);
-
     this.cache.set(key, node);
-    insertAtMRU(node,this.tail);
+    node.prev = this.tail.prev;
+    node.next = this.tail;
+    this.tail.prev.next = node;
+    this.tail.prev = node;
 
     if (this.cache.size > this.capacity) {
         let lru = this.head.next;
 
-        remove(lru);
+        this.head.next = lru.next;
+        lru.next.prev = this.head;
         this.cache.delete(lru.key);
     }
 };
