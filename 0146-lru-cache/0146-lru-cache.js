@@ -13,7 +13,7 @@ var LRUCache = function(capacity) {
     this.tail = new Node();
 
     this.head.next = this.tail;
-    this.tail.prev = this.head;
+    this.tail.prev = this.head
 };
 
 /**
