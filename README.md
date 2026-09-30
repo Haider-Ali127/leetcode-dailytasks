@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Haider-Ali127/leetcode-dailytasks/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Haider-Ali127/leetcode-dailytasks/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/Haider-Ali127/leetcode-dailytasks/tree/master/0012-integer-to-roman) |
 | [0036-valid-sudoku](https://github.com/Haider-Ali127/leetcode-dailytasks/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Haider-Ali127/leetcode-dailytasks/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Haider-Ali127/leetcode-dailytasks/tree/master/0076-minimum-window-substring) |
@@ -65,12 +66,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Haider-Ali127/leetcode-dailytasks/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/Haider-Ali127/leetcode-dailytasks/tree/master/0012-integer-to-roman) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Haider-Ali127/leetcode-dailytasks/tree/master/0150-evaluate-reverse-polish-notation) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Haider-Ali127/leetcode-dailytasks/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Haider-Ali127/leetcode-dailytasks/tree/master/0005-longest-palindromic-substring) |
+| [0012-integer-to-roman](https://github.com/Haider-Ali127/leetcode-dailytasks/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/Haider-Ali127/leetcode-dailytasks/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Haider-Ali127/leetcode-dailytasks/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Haider-Ali127/leetcode-dailytasks/tree/master/0022-generate-parentheses) |
